@@ -1,0 +1,44 @@
+
+.blog_list{
+  border-bottom: 1px solid #8695A4;
+}
+.blog h1 {
+  font-family: "Heebo";
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 60px;
+}
+.blog_list h3 {
+  font-family: "Heebo";
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 44px;
+  color: #21243D;
+  margin: 32px 0 10px;
+}
+.blog_list .text_blog {
+  font-family: "Heebo";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin: 10px 0 20px;
+}
+
+.two_items {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+.two_items span {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 29px;
+
+}
+.name_blog {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 29px;
+  color: #8695A4;
+
+}
